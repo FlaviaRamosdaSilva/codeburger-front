@@ -15,6 +15,7 @@
 <li>Utilizei ReactDOM, ESlint e Prettier;</li>
 <li>Utilizando Styled Components</li>
 <li>Adicionei a biblioteca React-Toastify para pop-ups de informações/erros<li>
+<li>Adiciconado o Hook Context para utilizar, ao invés do Redux<li>
 
 
 ### Previsão de conclusão: 31/01/2024
