@@ -26,3 +26,5 @@ export const useUser = () => {
 UserProvider.propTypes = {
   children: PropTypes.node
 }
+
+console.log(UserProvider)
